@@ -1,0 +1,10 @@
+<map id="include/readdy/model/observables/HistogramAlongAxis.h" name="include/readdy/model/observables/HistogramAlongAxis.h">
+<area shape="rect" id="node3" href="$Observable_8h.html" title="Header file containing the definitions for ObservableName, ObservableBase, Observable and CombinerObs..." alt="" coords="248,109,347,136"/>
+<area shape="rect" id="node4" href="$common_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="30,283,209,309"/>
+<area shape="rect" id="node5" href="$logging_8h.html" title="Header responsible for the logging system. " alt="" coords="83,365,156,392"/>
+<area shape="rect" id="node8" href="$make__unique_8h.html" title="reference implementation of make_unique, see N3656 " alt="" coords="751,275,901,317"/>
+<area shape="rect" id="node13" href="$signals_8h.html" title="A signals implementation. " alt="" coords="473,192,644,219"/>
+<area shape="rect" id="node17" href="$tuple__utils_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="224,185,371,226"/>
+<area shape="rect" id="node7" href="$macros_8h_source.html" title="macros.h" alt="" coords="142,440,217,467"/>
+<area shape="rect" id="node18" href="$index__sequence_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="234,283,360,309"/>
+</map>

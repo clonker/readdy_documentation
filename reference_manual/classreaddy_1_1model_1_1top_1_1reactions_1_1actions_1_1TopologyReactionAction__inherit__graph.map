@@ -1,0 +1,6 @@
+<map id="readdy::model::top::reactions::actions::TopologyReactionAction" name="readdy::model::top::reactions::actions::TopologyReactionAction">
+<area shape="rect" id="node2" href="$classreaddy_1_1model_1_1top_1_1reactions_1_1actions_1_1AddEdge.html" title="{readdy::model::top\l::reactions::actions\l::AddEdge\n||+ AddEdge()\l+ execute()\l+ undo()\l}" alt="" coords="5,264,139,400"/>
+<area shape="rect" id="node3" href="$classreaddy_1_1model_1_1top_1_1reactions_1_1actions_1_1ChangeParticleType.html" title="{readdy::model::top\l::reactions::actions\l::ChangeParticleType\n|# _vertex\l# type_to\l# previous_type\l|+ ChangeParticleType()\l}" alt="" coords="163,264,321,400"/>
+<area shape="rect" id="node5" href="$classreaddy_1_1model_1_1top_1_1reactions_1_1actions_1_1RemoveEdge.html" title="{readdy::model::top\l::reactions::actions\l::RemoveEdge\n||+ RemoveEdge()\l+ execute()\l+ undo()\l}" alt="" coords="347,264,480,400"/>
+<area shape="rect" id="node4" href="$classreaddy_1_1kernel_1_1scpu_1_1model_1_1top_1_1reactions_1_1op_1_1SCPUChangeParticleType.html" title="{readdy::kernel::scpu\l::model::top::reactions\l::op::SCPUChangeParticleType\n||+ SCPUChangeParticleType()\l+ execute()\l+ undo()\l}" alt="" coords="139,448,347,584"/>
+</map>

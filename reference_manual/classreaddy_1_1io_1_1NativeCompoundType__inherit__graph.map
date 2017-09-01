@@ -1,0 +1,7 @@
+<map id="readdy::io::NativeCompoundType" name="readdy::io::NativeCompoundType">
+<area shape="rect" id="node4" href="$classreaddy_1_1model_1_1ioutils_1_1ParticleTypeInfoMemoryType.html" title="{readdy::model::ioutils\l::ParticleTypeInfoMemoryType\n||+ ParticleTypeInfoMemoryType()\l}" alt="" coords="5,470,219,562"/>
+<area shape="rect" id="node5" href="$classreaddy_1_1model_1_1ioutils_1_1ReactionInfoMemoryType.html" title="{readdy::model::ioutils\l::ReactionInfoMemoryType\n||+ ReactionInfoMemoryType()\l}" alt="" coords="243,470,435,562"/>
+<area shape="rect" id="node6" href="$classreaddy_1_1model_1_1observables_1_1util_1_1TrajectoryEntryMemoryType.html" title="{readdy::model::observables\l::util::TrajectoryEntryMemoryType\n||+ TrajectoryEntryMemoryType()\l}" alt="" coords="459,470,679,562"/>
+<area shape="rect" id="node2" href="$classreaddy_1_1io_1_1DataSetType.html" title="{readdy::io::DataSetType\n||+ DataSetType()\l}" alt="" coords="257,219,420,296"/>
+<area shape="rect" id="node3" href="$classreaddy_1_1io_1_1Object.html" title="{readdy::io::Object\n|# handle\l|+ Object()\l+ Object()\l+ operator=()\l+ Object()\l+ operator=()\l+ ~Object()\l+ hid()\l}" alt="" coords="276,5,401,171"/>
+</map>

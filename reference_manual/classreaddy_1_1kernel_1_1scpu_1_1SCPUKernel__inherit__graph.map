@@ -1,0 +1,3 @@
+<map id="readdy::kernel::scpu::SCPUKernel" name="readdy::kernel::scpu::SCPUKernel">
+<area shape="rect" id="node2" href="$classreaddy_1_1model_1_1Kernel.html" title="{readdy::model::Kernel\n|# pimpl\l|+ Kernel()\l+ ~Kernel()\l+ Kernel()\l+ operator=()\l+ Kernel()\l+ operator=()\l+ getName()\l+ createAction()\l+ createObservable()\l+ createObservable()\land 39 more...\l# getTypeId()\l# getTypeIdRequireNormalFlavor()\l# getKernelStateModelInternal()\l# getKernelContextInternal()\l# getActionFactoryInternal()\l# getPotentialFactoryInternal()\l# getReactionFactoryInternal()\l# getCompartmentFactoryInternal()\l# getObservableFactoryInternal()\l# getTopologyActionFactory\lInternal()\l}" alt="" coords="5,131,229,517"/>
+</map>

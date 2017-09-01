@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Install readdy</title>
+
+    <link rel="stylesheet" href="/readdy_documentation/assets/css/readdy_documentation.css">
+    <link rel="canonical" href="https://readdy.github.io/readdy_documentation/installation.html">
+    <link href="https://fonts.googleapis.com/css?family=Inconsolata|Roboto+Mono|Lora|Lato|Source+Sans+Pro|Roboto+Slab|Merriweather" rel="stylesheet">
+    <link rel="stylesheet" href="https://readdy.github.io/readdy_documentation/libraries/perfect-scrollbar/css/perfect-scrollbar.min.css"/>
+
+    <!-- mathjax config similar to math.stackexchange -->
+    <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      jax: ["input/TeX", "output/HTML-CSS"],
+      tex2jax: {
+        inlineMath: [ ['$', '$'] ],
+        displayMath: [ ['$$', '$$']],
+        processEscapes: true,
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+      },
+      messageStyle: "none",
+      "HTML-CSS": { preferredFont: "TeX", availableFonts: ["STIX","TeX"] }
+    });
+    </script>
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_HTML">
+    </script>
+
+    <link rel="icon" type="image/png" href="/readdy_documentation/assets/icon_black_32px.png">
+
+</head>
+
+
+<body>
+<div class="side-wrapper" id="unique-side-container">
+<div class="side">
+    <div class="side-logo logo-readdy"><a href="https://readdy.github.io/readdy_documentation/index.html"></a></div>
+    <div style="margin-right: 1.5rem; text-align: center;">
+        <a href="https://readdy.github.io/readdy_documentation/index.html">ReaDDy - A particle-based<br>reaction-diffusion simulator</a>
+    </div>
+
+    <div class="side-searchbar-wrapper">
+        <form action="https://readdy.github.io/readdy_documentation/search.html" method="get">
+            <input type="text" id="search-box" name="query" placeholder="Search ...">
+        </form>
+    </div>
+    <nav class="side-nav">
+        <div class="nav-supergroup-delimiter">
+            <b>THE BASICS</b>
+        </div>
+        <a class="side-nav-item active" href="https://readdy.github.io/readdy_documentation/installation.html">Install readdy</a>
+        
+        <a class="side-nav-item" href="https://readdy.github.io/readdy_documentation/reactions.html">Reactions</a>
+        
+        <a class="side-nav-item" href="https://readdy.github.io/readdy_documentation/potentials.html">Potentials</a>
+        
+        <a class="side-nav-item" href="https://readdy.github.io/readdy_documentation/observables.html">Observables</a>
+        
+        <a class="side-nav-item" href="https://readdy.github.io/readdy_documentation/topologies.html">Topologies</a>
+
+
+        <div class="nav-supergroup-delimiter">
+            <b>EXAMPLES</b>
+        </div>
+        <a class="side-nav-item" href="https://readdy.github.io/readdy_documentation/demonstration.html">Demonstration</a>
+        
+
+
+        <div class="nav-supergroup-delimiter">
+            <b>ADVANCED TOPICS</b>
+        </div>
+        <a class="side-nav-item" href="https://readdy.github.io/readdy_documentation/development.html">Development</a>
+        
+        <a class="side-nav-item" href="https://readdy.github.io/readdy_documentation/reference_manual.html">Reference Manual</a>
+        <a class="side-nav-item" href="https://readdy.github.io/readdy_documentation/faq.html">FAQ</a>
+        
+    </nav>
+
+    <div class="github-wrapper">
+        <a href="https://github.com/readdy/readdy" style="width: 16rem; height:100%; position:absolute; top:0; left:0;">
+            <div class="github-text">ReaDDy on GitHub</div>
+            <div class="side-logo logo-github"></div>
+        </a>
+    </div>
+    <div class="side-logo logo-cmb"><a href="https://www.mi.fu-berlin.de/en/math/groups/comp-mol-bio/"></a></div>
+</div>
+</div>
+
+<div class="main-container" id="unique-main-container">
+    <div class="main">
+        <article>
+            <h1 style="font-size: 2.7rem; padding-left: 0.5rem;">Install readdy</h1>
+<h2 id="linux">Linux</h2>
+
+<p>Get <a href="https://conda.io/docs/install/quick.html">miniconda</a></p>
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh
+</code></pre>
+</div>
+<p>Install miniconda.</p>
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>bash Miniconda3-latest-Linux-x86_64.sh
+</code></pre>
+</div>
+<p>Source your <code class="highlighter-rouge">~/.bashrc</code> or restart the terminal, and check if it worked</p>
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>which conda
+</code></pre>
+</div>
+<p>should give you the location where conda got installed</p>
+
+<p>Install readdy from our conda channel</p>
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>conda install -f -c readdy/label/dev readdy
+</code></pre>
+</div>
+<p>Check if it worked, start a python interpreter and do</p>
+<div class="language-python highlighter-rouge"><pre class="highlight"><code><span class="o">&gt;&gt;&gt;</span> <span class="kn">import</span> <span class="nn">readdy._internal</span> <span class="kn">as</span> <span class="nn">api</span>
+<span class="o">&gt;&gt;&gt;</span> <span class="n">sim</span> <span class="o">=</span> <span class="n">api</span><span class="o">.</span><span class="n">Simulation</span><span class="p">()</span>
+<span class="o">&gt;&gt;&gt;</span> <span class="n">sim</span><span class="o">.</span><span class="n">set_kernel</span><span class="p">(</span><span class="s">"CPU"</span><span class="p">)</span>
+</code></pre>
+</div>
+<p>If this does not return an error, you are readdy (HA!).</p>
+
+
+        </article>
+        <div class="foot">
+            © Copyright 2017 <a href="https://www.mi.fu-berlin.de/en/math/groups/comp-mol-bio/">CMB group</a>
+        </div>
+    </div>
+</div>
+<script src="https://readdy.github.io/readdy_documentation/libraries/perfect-scrollbar/js/perfect-scrollbar.min.js"></script>
+<script src="https://readdy.github.io/readdy_documentation/assets/js/scrollbar.js"></script>
+</body>
+</html>

@@ -1,0 +1,4 @@
+<map id="readdy::kernel::scpu::model::SCPUNeighborList" name="readdy::kernel::scpu::model::SCPUNeighborList">
+<area shape="rect" id="node6" href="$structreaddy_1_1model_1_1Vec3.html" title="{readdy::model::Vec3\n|+ x\l+ y\l+ z\l+ @1\l|+ Vec3()\l+ Vec3()\l+ Vec3()\l+ operator+=()\l+ operator&#45;=()\l+ operator*=()\l+ operator/=()\l+ cross()\l+ norm()\l+ normSquared()\l+ operator[]()\l+ operator[]()\l+ invertElementWise()\l+ operator==()\l+ operator!=()\l}" alt="" coords="437,163,589,490"/>
+<area shape="rect" id="node9" href="$classreaddy_1_1model_1_1KernelContext.html" title="{readdy::model::KernelContext\n||+ getKBT()\l+ setKBT()\l+ getBoxSize()\l+ getBoxBoundingVertices()\l+ setBoxSize()\l+ getPeriodicBoundary()\l+ setPeriodicBoundary()\l+ getFixPositionFun()\l+ getDistSquaredFun()\l+ getShortestDifferenceFun()\land 26 more...\l}" alt="" coords="768,215,963,439"/>
+</map>

@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Search results</title>
+
+    <link rel="stylesheet" href="/readdy_documentation/assets/css/readdy_documentation.css">
+    <link rel="canonical" href="https://readdy.github.io/readdy_documentation/search.html">
+    <link href="https://fonts.googleapis.com/css?family=Inconsolata|Roboto+Mono|Lora|Lato|Source+Sans+Pro|Roboto+Slab|Merriweather" rel="stylesheet">
+    <link rel="stylesheet" href="https://readdy.github.io/readdy_documentation/libraries/perfect-scrollbar/css/perfect-scrollbar.min.css"/>
+
+    <!-- mathjax config similar to math.stackexchange -->
+    <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      jax: ["input/TeX", "output/HTML-CSS"],
+      tex2jax: {
+        inlineMath: [ ['$', '$'] ],
+        displayMath: [ ['$$', '$$']],
+        processEscapes: true,
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+      },
+      messageStyle: "none",
+      "HTML-CSS": { preferredFont: "TeX", availableFonts: ["STIX","TeX"] }
+    });
+    </script>
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_HTML">
+    </script>
+
+    <link rel="icon" type="image/png" href="/readdy_documentation/assets/icon_black_32px.png">
+
+</head>
+
+
+<body>
+<div class="side-wrapper" id="unique-side-container">
+<div class="side">
+    <div class="side-logo logo-readdy"><a href="https://readdy.github.io/readdy_documentation/index.html"></a></div>
+    <div style="margin-right: 1.5rem; text-align: center;">
+        <a href="https://readdy.github.io/readdy_documentation/index.html">ReaDDy - A particle-based<br>reaction-diffusion simulator</a>
+    </div>
+
+    <div class="side-searchbar-wrapper">
+        <form action="https://readdy.github.io/readdy_documentation/search.html" method="get">
+            <input type="text" id="search-box" name="query" placeholder="Search ...">
+        </form>
+    </div>
+    <nav class="side-nav">
+        <div class="nav-supergroup-delimiter">
+            <b>THE BASICS</b>
+        </div>
+        <a class="side-nav-item" href="https://readdy.github.io/readdy_documentation/installation.html">Install readdy</a>
+        
+        <a class="side-nav-item" href="https://readdy.github.io/readdy_documentation/reactions.html">Reactions</a>
+        
+        <a class="side-nav-item" href="https://readdy.github.io/readdy_documentation/potentials.html">Potentials</a>
+        
+        <a class="side-nav-item" href="https://readdy.github.io/readdy_documentation/observables.html">Observables</a>
+        
+        <a class="side-nav-item" href="https://readdy.github.io/readdy_documentation/topologies.html">Topologies</a>
+
+
+        <div class="nav-supergroup-delimiter">
+            <b>EXAMPLES</b>
+        </div>
+        <a class="side-nav-item" href="https://readdy.github.io/readdy_documentation/demonstration.html">Demonstration</a>
+        
+
+
+        <div class="nav-supergroup-delimiter">
+            <b>ADVANCED TOPICS</b>
+        </div>
+        <a class="side-nav-item" href="https://readdy.github.io/readdy_documentation/development.html">Development</a>
+        
+        <a class="side-nav-item" href="https://readdy.github.io/readdy_documentation/reference_manual.html">Reference Manual</a>
+        <a class="side-nav-item" href="https://readdy.github.io/readdy_documentation/faq.html">FAQ</a>
+        
+    </nav>
+
+    <div class="github-wrapper">
+        <a href="https://github.com/readdy/readdy" style="width: 16rem; height:100%; position:absolute; top:0; left:0;">
+            <div class="github-text">ReaDDy on GitHub</div>
+            <div class="side-logo logo-github"></div>
+        </a>
+    </div>
+    <div class="side-logo logo-cmb"><a href="https://www.mi.fu-berlin.de/en/math/groups/comp-mol-bio/"></a></div>
+</div>
+</div>
+
+<div class="main-container" id="unique-main-container">
+    <div class="main">
+        <article>
+            <h1 style="font-size: 2.7rem; padding-left: 0.5rem;">Search results</h1>
+<form action="https://readdy.github.io/readdy_documentation/search.html" method="get">
+    <input type="text" id="search-box" name="query">
+    <input type="submit" value="search">
+</form>
+
+<ul id="search-results"></ul>
+
+<script>
+    window.store = {
+        
+        
+            
+                "development-architecture-html": {
+                    "title": "Architecture",
+                    "content": "Source treereaddy/├── README.md│   ...│├── kernels/│   ││   ├── cpu/│   │   ├── include/│   │   │   └── (kernel includes)│   │   ├── src/│   │   │   └── (kernel sources)│   │   └── test/│   │       └── (kernel tests)│   ││   └── cuda/│       └── (yet to be added)│├── include/│   └── *.h (core library includes)│├── readdy/│   ││   ├── main/│   │   └── (core library sources)│   └── test/│       └── (core library tests)│├── libraries/│   └── (pybind11, spdlog)│└── wrappers/    └── python/        └── src/ (code for python api)            ├── cxx/            │   └── (c++ code for the python module)            │            └── python/                └── (python top-level api)",
+                    "url": "/readdy_documentation/development.html#architecture"
+                },
+            
+                "development-build-html": {
+                    "title": "Building from source",
+                    "content": "ReaDDy has the following dependencies (bold printed are expected to be present on the system):  hdf5  cmake  spdlog, included by git submodule  for python bindings          pybind11, included by git submodule      python 3 with numpy, h5py        googletest, for testing, downloaded during cmake configurationBuild by using CMakeThis type of build is suggested if one is interested in development of the software. There are a number of CMake options that influence the type of build:            CMake option = default      Description                  READDY_CREATE_TEST_TARGET:BOOL=ON      Determining if the test targets should be generated.              READDY_CREATE_MEMORY_CHECK_TEST_TARGET:BOOL=OFF      Determining if the test targets should be additionally called through valgrind. Requires the previous option to be ON and valgrind to be installed.              READDY_INSTALL_UNIT_TEST_EXECUTABLE:BOOL=OFF      Determining if the unit test executables should be installed. This is option is mainly important for the conda recipe.              READDY_BUILD_SHARED_COMBINED:BOOL=OFF      Determining if the core library should be built monolithically or as separated shared libraries.              READDY_BUILD_PYTHON_WRAPPER:BOOL=ON      Determining if the python wrapper should be built.              READDY_DEBUG_PYTHON_MODULES:BOOL=OFF      If this flag is set to ON, the generated python module will be placed in-source rather than in the output directory to enable faster development.              READDY_DEBUG_CONDA_ROOT_DIR:PATH=””      This option is to be used in conjunction with the previous option and only has effect if it is set to ON. It should point to the conda environment which is used for development and then effects the output directory of the binary files such that they get compiled directly into the respective environment.              READDY_GENERATE_DOCUMENTATION_TARGET:BOOL=OFF      Determines if the documentation target should be generated or not, which, if generated, can be called by “make doc”.              READDY_GENERATE_DOCUMENTATION_TARGET_ONLY:BOOL=OFF      This option has the same effect as the previous option, just that it does not need any dependencies other than doxygen to be fulfilled and generates the documentation target exclusively.              READDY_LOG_CMAKE_CONFIGURATION:BOOL=OFF      This option determines if the status of relevant cmake cache variables should be logged at configuration time or not.              READDY_KERNELS_TO_TEST:STRING=”SingleCPU,CPU”      Comma separated list of kernels against which the core library should be tested within the test targets.              advanced: INCLUDE_PERFORMANCE_TESTS:BOOL=OFF      Flag indicating if the performance tests should be part of the unit test target or not.      After having configured the cmake cache variables, one can invoke cmake and make and compile the project.Altogether, a shell script invoking cmake with modified parameters in an environment with multiple python versions could look like this.Build by using conda-buildconda install conda-buildconda-build PATH_TO_READDY/tools/conda-recipe",
+                    "url": "/readdy_documentation/development.html#build"
+                },
+            
+                "development-topologies-html": {
+                    "title": "Topologies",
+                    "content": "A topology is a collection of particles, whose unique ids are stored in a std::vector. These particles are subject to bond-, angle- and dihedral-potentials. For a pair (or triple or quadruple) of particles to have a potential term, they have to be connected. The connection is defined by a graph, which is a linked list of vertices. Each vertex represents one particle in the topology and contains references to other vertices. The actual potential terms are yielded by a lookup table on pairs/triples/quadruples of particle types. All potentials holding the topology together are thus obtained from both the Graph and the PotentialConfiguration.Internal structure of topologiesTopology contains global particle indices and potential terms between them, referencing to local indices w.r.t. the global-particle-index-vectorGraphTopology is a derived class of Topology and has the following properties  has a topology type which currently defines the possible structural reactions  contains a graph consisting out of vertices that have a one-to-one correspondence  to particle indices in the respective topology:          the data structure for the vertices is a linked list, hence iterators can be used as vertex references and a tuple of vertex references denotes an edge in the graph      a topology graph needs to be connected upon simulation start        has PotentialConfiguration that contains particle-type pairs/triples/quadruples definitions for bonds/angles/torsion-potentials, respectively  the graph’s connectivity together with the potential configuration gives the actual potential terms of the topology  topology needs to be connected w.r.t. bonds as yielded by graph+potential config upon simulation start  contains a vector of rates for structural reactions as registered for the topology typePotential termsPotential terms hold the topology together.They are configured in the readdy::api::PotentialConfiguration. This kernel-unique object holds three maps:  pairPotentials: mapping (type1, type2) -&gt; bonds  anglePotentials: mapping (type1, type2, type3) -&gt; angles  torsionPotentials: mapping (type1, type2, type3, type4) -&gt; torsion angles.These maps apply a hashing and equality operator that allows for asking for the reverse key, e.g., (type1, type2, type3) and (type3, type2, type1) should yield the same value.Topology reactionsThere are structurally-dependent and spatially-dependent  reactions:Structural means that the reaction recipe as well as its rate only depend on the topology’s graph, no dependence on other particles or other topologies is possible. Spatial means that the reaction is occurring between two particles due to their spatial proximity. At least one of the particles must belong to a topology.  structural reactions are defined on the topology-type. They require a rate-function and a reaction-function. With structural reactions one can realize          Conversion of a topology, just a change of the graph      Fission, change of the graph but ending up with disconnected components. Think of a linear polymer that breaks apart in the middle      Special case: Fission of a topology that yields components which consist of only one particle with the flavor “NORMAL”. Here, the topology will be erased and the particle will be treated normally.        spatial reactions are between two particle-types of which at least one has topology flavor with a certain topology-type          TopologyParticleReaction TP, association of a normal particle and a topology particle, the normal particle becomes a topology flavor and joins the list of particles and an edge in the graph is established.      TopologyTopologyReaction TT, association of two particles that already belong to a topology of a certain type, if these two are different topologies, their lists of particles and graphs are merged, and an edge is established between the given vertices. The type of the merged topology is determined by the reaction      All topology reactions are stored in the TopologyRegistryStructural topology reactions detailA structural reaction may change the connectivity of the topologies’ graph and may also change the types of the vertices, i.e. change the particle-type of a particle.Rate functionA rate function has the signature scalar(const GraphTopology&amp;) and is supposed to yield a rate depending on the current state of the topology. This rate is assumed to be constant as long as the topology keeps its type and its graph does not change.Reaction functionA reaction function has the signature reaction_recipe(GraphTopology&amp;) and is supposed to yield a reaction recipe that is a set of operations which will then be applied to the topology by the selected computing kernel. Available operations are:  addEdge(vertex1, vertex2): introduce an edge between two vertices  removeEdge(vertex1, vertex2): remove an edge between two vertices  separateVertex(vertex): remove all edges going from or to the given vertex  changeParticleType(vertex, newType): change the type of the particle corresponding to the given vertex  changeTopologyType(newType): change the topology’s typeSpatial topology reactions detailSpatial reactions are defined on both particle types and topology types, before and after the reaction.Additionally spatial reactions differ in behavior with respect to merging the topologies or not. Analogue to fusion-like or enzymatic-like reactions.Particle- and topology-types before and after the reactionTo simplify the definition of TP and TT reactions, one can use a describing string such as:where $T_i$ and $P_i$ denote topology- and particle-types, respectively. The above example would be for an enzymatic TT reaction. In case of an enzymatic TP reaction, one can omit $T_2$ and $T_4$. In case one would like to perform a fusion reaction, the notation iswhere again $T_2$ can be omitted if a TP reaction is wanted.In the special case of a TT-Fusion, one can additionally specify [self=true] at the end of the describing string to indicate that the topology may also form bonds with its own particles.Examples:  TT-Fusion: T1 (p1) + T2 (p2) -&gt; T3 (p3--p4) [self=true]  TT-Fusion2: T1 (p1) + T2 (p2) -&gt; T3 (p3--p4), where self=false is used as default  TT-Enzymatic: T1 (p1) + T2 (p2) -&gt; T3 (p3) + T4 (p4)  TP-Fusion: T1 (p1) + (p2) -&gt; T2 (p3--p4)  TP-Enzymatic: T1 (p1) + (p2) -&gt; T3 (p3) + (p4)Spatial reaction modeThe behavior of a reaction is summarized internally by an enum SpatialTopologyReactionMode, which is extracted from the user’s descriptor string:            SpatialTopologyReactionMode      meaning                  TT_ENZYMATIC      reaction between two topologies, no edge is created              TT_FUSION      reaction between two topologies, edge can only be established between particles of different topology instances              TT_FUSION_ALLOW_SELF      reaction between two topologies, edge can be established between particles of different instances and even within the same instance of a topology              TP_ENZYMATIC      reaction between topology and particle changing types but not establishing a bond              TP_FUSION      reaction between topology and particle introducing a bond and possibly changing types      Use cases:            problem      STRMode                  Linear polymers with two end-particles each. Polymers can fuse together at the ends, but not with themselves      SpatialTopologyReaction with STRMode==TT_FUSION              A complex/topology has an active site, that switches its type when a ligand/normal particle is close      SpatialTopologyReaction with STRMode==TP_ENZYMATIC      ",
+                    "url": "/readdy_documentation/development.html#topologies"
+                },
+            
+        
+            
+                "faq-libstdcpp-html": {
+                    "title": "Wrong libstdc++ version",
+                    "content": "If you are getting an ImportError like belowimport readdy._internal.readdybinding.api as apiImportError: /usr/lib/x86_64-linux-gnu/libstdc++.so.6: version 'CXXABI_1.3.9' not found (required by /home/username/miniconda2/envs/myenv/lib/python3.6/site-packages/readdy/_internal/readdybinding.cpython-36m-x86_64-linux-gnu.so)installing the conda package libgcc viaconda install libgccMAY solve the problem.It might happen that this does not resolve the issue since the libstdc++ from conda might still be too old. We are building with a rather recent version of gcc (version &gt;5) and its corresponding libstdc++. The only way to solve this then is to have a system wide set of rather current versions of gcc/libstdc++ available.",
+                    "url": "/readdy_documentation/faq.html#libstdc++ version"
+                },
+            
+        
+            
+                "observables-n-particles-html": {
+                    "title": "NParticles",
+                    "content": "Description of number of particles",
+                    "url": "/readdy_documentation/observables.html#nparticles"
+                },
+            
+                "observables-reaction-counts-html": {
+                    "title": "Reaction counts",
+                    "content": "Description of reaction counts",
+                    "url": "/readdy_documentation/observables.html#reactioncounts"
+                },
+            
+                "observables-trajectory-html": {
+                    "title": "Trajectory",
+                    "content": "Description of trajectory",
+                    "url": "/readdy_documentation/observables.html#trajectory"
+                },
+            
+        
+            
+        
+            
+                "potentials-order1-box-html": {
+                    "title": "Box",
+                    "content": "Description of Box, the first order potential",
+                    "url": "/readdy_documentation/potentials_order1.html#box"
+                },
+            
+                "potentials-order1-sphere-html": {
+                    "title": "Sphere",
+                    "content": "Description of Sphere, the first order potential",
+                    "url": "/readdy_documentation/potentials_order1.html#sphere"
+                },
+            
+        
+            
+                "potentials-order2-harmonic-repulsion-html": {
+                    "title": "Harmonic repulsion",
+                    "content": "Description of harmonic repulsion",
+                    "url": "/readdy_documentation/potentials_order2.html#harmonicrepulsion"
+                },
+            
+                "potentials-order2-lennard-jones-html": {
+                    "title": "Lennard-Jones",
+                    "content": "Description of Lennard-Jones potential",
+                    "url": "/readdy_documentation/potentials_order2.html#lennardjones"
+                },
+            
+        
+            
+                "reactions-conversion-html": {
+                    "title": "Conversion",
+                    "content": "",
+                    "url": "/readdy_documentation/reactions.html#conversion"
+                },
+            
+                "reactions-decay-html": {
+                    "title": "Decay",
+                    "content": "",
+                    "url": "/readdy_documentation/reactions.html#decay"
+                },
+            
+                "reactions-enzymatic-html": {
+                    "title": "Enzymatic",
+                    "content": "",
+                    "url": "/readdy_documentation/reactions.html#enzymatic"
+                },
+            
+                "reactions-fission-html": {
+                    "title": "Fission",
+                    "content": "",
+                    "url": "/readdy_documentation/reactions.html#fission"
+                },
+            
+                "reactions-fusion-html": {
+                    "title": "Fusion",
+                    "content": "",
+                    "url": "/readdy_documentation/reactions.html#fusion"
+                },
+            
+        
+            
+                "tutorials-internal-api": {
+                    "title": "Internal API",
+                    "content": "This notebook shall demonstrate the usage of the readdy._internal.api. Information here is likely to be deprecated.In&nbsp;[1]:    import numpy as npimport matplotlib.pyplot as pltimport contextlib as climport readdy._internal as apiapi.set_logging_level(&quot;info&quot;)In&nbsp;[2]:    sim = api.Simulation()sim.set_kernel(&quot;SingleCPU&quot;)sim.box_size = api.Vec(20, 20, 20)sim.periodic_boundary = [True, True, True]In&nbsp;[3]:    sim.register_particle_type(&quot;A&quot;, diffusion_coefficient=1.0, radius=0.5)sim.register_particle_type(&quot;Source A&quot;, diffusion_coefficient=1.0, radius=1.0)sim.register_particle_type(&quot;Sink A&quot;, diffusion_coefficient=1.0, radius=1.5)Out[3]:2In&nbsp;[4]:    sim.register_reaction_fission(&quot;create A&quot;, from_type=&quot;Source A&quot;, to_type1=&quot;Source A&quot;,                               to_type2=&quot;A&quot;, rate=5., product_distance=1.)sim.register_reaction_fusion(&quot;absorb A&quot;, from_type1=&quot;Sink A&quot;, from_type2=&quot;A&quot;,                              to_type=&quot;Sink A&quot;, rate=15., educt_distance=2.0)Out[4]:0In&nbsp;[5]:    sim.add_particle(&quot;Source A&quot;, api.Vec(0., 0., 0.))sim.add_particle(&quot;Sink A&quot;, api.Vec(4., 0., 4.))sim.add_particle(&quot;Sink A&quot;, api.Vec(4., 2., 0.))sim.add_particle(&quot;Sink A&quot;, api.Vec(-1., -1., -3.))In&nbsp;[6]:    numbers_data = []def append_numbers(x):    global numbers_data    numbers_data.append(x)    print(&quot;A&quot;, x[0])obs_stride = 500sim.register_observable_n_particles(stride=obs_stride, types=[&quot;A&quot;], callback=append_numbers)Out[6]:ObservableHandle(id=0)In&nbsp;[7]:    wanna_look_at_vmd = Trueif wanna_look_at_vmd:     traj_handle = sim.register_observable_flat_trajectory(stride=1)In&nbsp;[8]:    time_step = 1e-2with cl.closing(api.File(&quot;out.h5&quot;, api.FileAction.CREATE, api.FileFlag.OVERWRITE)) as f:    if wanna_look_at_vmd:        traj_handle.enable_write_to_file(f, &quot;traj&quot;, 5000)            sim.run_scheme_readdy(True) \\        .write_config_to_file(f) \\        .configure_and_run(20000, time_step)A 0A 24A 43A 62A 88A 116A 112A 115A 132A 145A 145A 153A 164A 173A 177A 183A 185A 188A 179A 178A 179A 189A 177A 180A 190A 185A 191A 202A 211A 182A 174A 175A 180A 157A 151A 165A 168A 172A 177A 178A 177In&nbsp;[9]:    if wanna_look_at_vmd:    api.convert_xyz(&quot;./out.h5&quot;, &quot;traj&quot;, &quot;./traj.xyz&quot;, radii={&quot;A&quot;: 1., &quot;Source A&quot;: 1., &quot;Sink A&quot;: 1.})In&nbsp;[10]:    times = np.arange(0., len(numbers_data)) * obs_stride * time_stepplt.plot(times, numbers_data)plt.xlabel(&quot;time&quot;)plt.ylabel(&quot;number of A particles&quot;)plt.show() ",
+                    "url": "/readdy_documentation/tutorials.html#"
+                },
+            
+        
+        "blub": {
+            "title": "",
+            "content": "",
+            "url": ""
+        }
+    };
+</script>
+<script src="https://readdy.github.io/readdy_documentation/libraries/lunr/js/lunr.min.js"></script>
+<script src="https://readdy.github.io/readdy_documentation/assets/js/search.js"></script>
+
+
+        </article>
+        <div class="foot">
+            © Copyright 2017 <a href="https://www.mi.fu-berlin.de/en/math/groups/comp-mol-bio/">CMB group</a>
+        </div>
+    </div>
+</div>
+<script src="https://readdy.github.io/readdy_documentation/libraries/perfect-scrollbar/js/perfect-scrollbar.min.js"></script>
+<script src="https://readdy.github.io/readdy_documentation/assets/js/scrollbar.js"></script>
+</body>
+</html>

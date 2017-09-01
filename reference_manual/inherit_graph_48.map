@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classreaddy_1_1model_1_1potentials_1_1Potential.html" title="readdy::model::potentials\l::Potential" alt="" coords="5,234,173,275"/>
+<area shape="rect" id="node2" href="$classreaddy_1_1model_1_1potentials_1_1PotentialOrder1.html" title="readdy::model::potentials\l::PotentialOrder1" alt="" coords="221,135,389,177"/>
+<area shape="rect" id="node7" href="$classreaddy_1_1model_1_1potentials_1_1PotentialOrder2.html" title="readdy::model::potentials\l::PotentialOrder2" alt="" coords="221,331,389,373"/>
+<area shape="rect" id="node3" href="$classreaddy_1_1model_1_1potentials_1_1Cube.html" title="readdy::model::potentials\l::Cube" alt="" coords="475,5,643,46"/>
+<area shape="rect" id="node4" href="$classreaddy_1_1model_1_1potentials_1_1SphereIn.html" title="readdy::model::potentials\l::SphereIn" alt="" coords="475,70,643,111"/>
+<area shape="rect" id="node5" href="$classreaddy_1_1model_1_1potentials_1_1SphereOut.html" title="readdy::model::potentials\l::SphereOut" alt="" coords="475,135,643,177"/>
+<area shape="rect" id="node6" href="$classreaddy_1_1model_1_1potentials_1_1SphericalBarrier.html" title="readdy::model::potentials\l::SphericalBarrier" alt="" coords="475,201,643,242"/>
+<area shape="rect" id="node8" href="$classreaddy_1_1model_1_1potentials_1_1HarmonicRepulsion.html" title="readdy::model::potentials\l::HarmonicRepulsion" alt="" coords="475,266,643,307"/>
+<area shape="rect" id="node9" href="$classreaddy_1_1model_1_1potentials_1_1LennardJones.html" title="readdy::model::potentials\l::LennardJones" alt="" coords="475,331,643,373"/>
+<area shape="rect" id="node10" href="$classreaddy_1_1model_1_1potentials_1_1ScreenedElectrostatics.html" title="readdy::model::potentials\l::ScreenedElectrostatics" alt="" coords="475,397,643,438"/>
+<area shape="rect" id="node11" href="$classreaddy_1_1model_1_1potentials_1_1WeakInteractionPiecewiseHarmonic.html" title="readdy::model::potentials\l::WeakInteractionPiecewiseHarmonic" alt="" coords="438,462,679,503"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="readdy::io::ObjectHandle" name="readdy::io::ObjectHandle">
+<area shape="rect" id="node2" href="$classreaddy_1_1io_1_1DataSetHandle.html" title="{readdy::io::DataSetHandle\n||+ DataSetHandle()\l+ DataSetHandle()\l+ operator=()\l+ DataSetHandle()\l+ operator=()\l+ ~DataSetHandle()\l+ close()\l}" alt="" coords="5,256,181,421"/>
+<area shape="rect" id="node3" href="$classreaddy_1_1io_1_1DataSpaceHandle.html" title="{readdy::io::DataSpaceHandle\n||+ DataSpaceHandle()\l+ DataSpaceHandle()\l+ operator=()\l+ DataSpaceHandle()\l+ operator=()\l+ ~DataSpaceHandle()\l+ close()\l}" alt="" coords="206,256,399,421"/>
+<area shape="rect" id="node4" href="$classreaddy_1_1io_1_1DataTypeHandle.html" title="{readdy::io::DataTypeHandle\n||+ DataTypeHandle()\l+ DataTypeHandle()\l+ operator=()\l+ DataTypeHandle()\l+ operator=()\l+ ~DataTypeHandle()\l+ close()\l}" alt="" coords="423,256,608,421"/>
+<area shape="rect" id="node5" href="$classreaddy_1_1io_1_1FileHandle.html" title="{readdy::io::FileHandle\n||+ FileHandle()\l+ ~FileHandle()\l+ close()\l}" alt="" coords="633,285,781,392"/>
+<area shape="rect" id="node6" href="$classreaddy_1_1io_1_1GroupHandle.html" title="{readdy::io::GroupHandle\n||+ GroupHandle()\l+ GroupHandle()\l+ operator=()\l+ GroupHandle()\l+ operator=()\l+ ~GroupHandle()\l+ close()\l}" alt="" coords="807,256,969,421"/>
+<area shape="rect" id="node7" href="$classreaddy_1_1io_1_1PropertyListHandle.html" title="{readdy::io::PropertyList\lHandle\n||+ PropertyListHandle()\l+ PropertyListHandle()\l+ operator=()\l+ PropertyListHandle()\l+ operator=()\l+ ~PropertyListHandle()\l+ close()\l}" alt="" coords="994,249,1155,429"/>
+</map>

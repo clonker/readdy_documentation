@@ -1,0 +1,11 @@
+<map id="include/readdy/model/topologies/reactions/Operations.h" name="include/readdy/model/topologies/reactions/Operations.h">
+<area shape="rect" id="node3" href="$macros_8h_source.html" title="readdy/common/macros.h" alt="" coords="632,723,805,749"/>
+<area shape="rect" id="node4" href="$TopologyReactionAction_8h_source.html" title="TopologyReactionAction.h" alt="" coords="443,184,617,211"/>
+<area shape="rect" id="node25" href="$TopologyReactionActionFactory_8h_source.html" title="TopologyReactionActionFactory.h" alt="" coords="564,109,783,136"/>
+<area shape="rect" id="node5" href="$Graph_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="449,259,612,301"/>
+<area shape="rect" id="node10" href="$Vertex_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="401,349,471,376"/>
+<area shape="rect" id="node15" href="$common_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="73,573,252,600"/>
+<area shape="rect" id="node18" href="$Particle_8h.html" title="Header file containing the definitions for the particle class. " alt="" coords="218,424,376,451"/>
+<area shape="rect" id="node16" href="$logging_8h.html" title="Header responsible for the logging system. " alt="" coords="320,648,393,675"/>
+<area shape="rect" id="node23" href="$Vec3_8h.html" title="File containing the definitions for Vec3. " alt="" coords="314,499,376,525"/>
+</map>

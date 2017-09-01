@@ -1,0 +1,7 @@
+<map id="readdy::io::STDCompoundType" name="readdy::io::STDCompoundType">
+<area shape="rect" id="node4" href="$classreaddy_1_1model_1_1ioutils_1_1ParticleTypeInfoFileType.html" title="{readdy::model::ioutils\l::ParticleTypeInfoFileType\n||+ ParticleTypeInfoFileType()\l}" alt="" coords="5,470,192,562"/>
+<area shape="rect" id="node5" href="$classreaddy_1_1model_1_1ioutils_1_1ReactionInfoFileType.html" title="{readdy::model::ioutils\l::ReactionInfoFileType\n||+ ReactionInfoFileType()\l}" alt="" coords="217,470,383,562"/>
+<area shape="rect" id="node6" href="$classreaddy_1_1model_1_1observables_1_1util_1_1TrajectoryEntryFileType.html" title="{readdy::model::observables\l::util::TrajectoryEntryFileType\n||+ TrajectoryEntryFileType()\l}" alt="" coords="408,470,603,562"/>
+<area shape="rect" id="node2" href="$classreaddy_1_1io_1_1DataSetType.html" title="{readdy::io::DataSetType\n||+ DataSetType()\l}" alt="" coords="218,219,381,296"/>
+<area shape="rect" id="node3" href="$classreaddy_1_1io_1_1Object.html" title="{readdy::io::Object\n|# handle\l|+ Object()\l+ Object()\l+ operator=()\l+ Object()\l+ operator=()\l+ ~Object()\l+ hid()\l}" alt="" coords="237,5,363,171"/>
+</map>

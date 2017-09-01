@@ -1,0 +1,5 @@
+<map id="readdy::model::top::pot::CalculateCosineDihedralPotential" name="readdy::model::top::pot::CalculateCosineDihedralPotential">
+<area shape="rect" id="node4" href="$classreaddy_1_1kernel_1_1scpu_1_1model_1_1top_1_1SCPUCalculateCosineDihedralPotential.html" title="{readdy::kernel::scpu\l::model::top::SCPUCalculate\lCosineDihedralPotential\n||+ SCPUCalculateCosineDihedral\lPotential()\l+ perform()\l}" alt="" coords="15,691,231,827"/>
+<area shape="rect" id="node2" href="$classreaddy_1_1model_1_1top_1_1pot_1_1EvaluatePotentialAction.html" title="{readdy::model::top\l::pot::EvaluatePotentialAction\n||+ EvaluatePotentialAction()\l+ EvaluatePotentialAction()\l+ operator=()\l+ EvaluatePotentialAction()\l+ operator=()\l+ ~EvaluatePotentialAction()\l+ perform()\l}" alt="" coords="25,219,220,399"/>
+<area shape="rect" id="node3" href="$classreaddy_1_1model_1_1top_1_1pot_1_1TopologyPotentialAction.html" title="{readdy::model::top\l::pot::TopologyPotentialAction\n|# context\l|+ TopologyPotentialAction()\l+ TopologyPotentialAction()\l+ operator=()\l+ TopologyPotentialAction()\l+ operator=()\l+ ~TopologyPotentialAction()\l}" alt="" coords="24,5,221,171"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="readdy::model::compartments::Sphere" name="readdy::model::compartments::Sphere">
+<area shape="rect" id="node2" href="$classreaddy_1_1model_1_1compartments_1_1Compartment.html" title="{readdy::model::compartments\l::Compartment\n|# _id\l# counter\l|+ Compartment()\l+ isContained()\l+ getConversions()\l+ getTypeName()\l+ getUniqueName()\l+ getId()\l}" alt="" coords="89,394,284,574"/>
+<area shape="rect" id="node3" title="STL class. " alt="" coords="28,157,107,235"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="133,150,269,242"/>
+<area shape="rect" id="node6" href="$structreaddy_1_1model_1_1Vec3.html" title="{readdy::model::Vec3\n|+ x\l+ y\l+ z\l+ @1\l|+ Vec3()\l+ Vec3()\l+ Vec3()\l+ operator+=()\l+ operator&#45;=()\l+ operator*=()\l+ operator/=()\l+ cross()\l+ norm()\l+ normSquared()\l+ operator[]()\l+ operator[]()\l+ invertElementWise()\l+ operator==()\l+ operator!=()\l}" alt="" coords="308,321,460,647"/>
+</map>

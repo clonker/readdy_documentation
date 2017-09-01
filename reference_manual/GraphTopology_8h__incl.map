@@ -1,0 +1,32 @@
+<map id="include/readdy/model/topologies/GraphTopology.h" name="include/readdy/model/topologies/GraphTopology.h">
+<area shape="rect" id="node2" href="$macros_8h_source.html" title="readdy/common/macros.h" alt="" coords="273,1232,447,1259"/>
+<area shape="rect" id="node3" href="$Topology_8h.html" title="Definitions for topologies. " alt="" coords="1027,96,1113,123"/>
+<area shape="rect" id="node9" href="$Graph_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="679,753,841,794"/>
+<area shape="rect" id="node46" href="$reactions_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="525,260,667,287"/>
+<area shape="rect" id="node6" href="$TopologyActionFactory_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="967,171,1133,197"/>
+<area shape="rect" id="node7" href="$TopologyReactionActionFactory_8h_source.html" title="readdy/model/topologies\l/reactions/TopologyReactionAction\lFactory.h" alt="" coords="245,573,469,629"/>
+<area shape="rect" id="node28" href="$TopologyPotentialActionFactory_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="1909,245,2099,301"/>
+<area shape="rect" id="node8" href="$TopologyReactionAction_8h_source.html" title="TopologyReactionAction.h" alt="" coords="595,677,769,704"/>
+<area shape="rect" id="node14" href="$Vertex_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="1454,851,1524,877"/>
+<area shape="rect" id="node18" href="$common_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="1811,1083,1991,1109"/>
+<area shape="rect" id="node21" href="$Particle_8h.html" title="Header file containing the definitions for the particle class. " alt="" coords="1589,933,1747,960"/>
+<area shape="rect" id="node19" href="$logging_8h.html" title="Header responsible for the logging system. " alt="" coords="2115,1157,2188,1184"/>
+<area shape="rect" id="node26" href="$Vec3_8h.html" title="File containing the definitions for Vec3. " alt="" coords="1199,1008,1261,1035"/>
+<area shape="rect" id="node29" href="$TopologyPotentialActions_8h_source.html" title="TopologyPotentialActions.h" alt="" coords="1985,349,2167,376"/>
+<area shape="rect" id="node40" href="$BondedPotential_8h_source.html" title="BondedPotential.h" alt="" coords="1988,424,2116,451"/>
+<area shape="rect" id="node44" href="$AnglePotential_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="2292,424,2408,451"/>
+<area shape="rect" id="node45" href="$TorsionPotential_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="2141,424,2267,451"/>
+<area shape="rect" id="node30" href="$TopologyPotentialAction_8h_source.html" title="TopologyPotentialAction.h" alt="" coords="1595,588,1769,615"/>
+<area shape="rect" id="node31" href="$KernelContext_8h.html" title="Container class for time independent information of the KernelContext. " alt="" coords="1391,677,1589,704"/>
+<area shape="rect" id="node33" href="$PotentialOrder1_8h.html" title="Declaration of the base class of all order 1 potentials. " alt="" coords="1293,753,1452,794"/>
+<area shape="rect" id="node34" href="$PotentialOrder2_8h.html" title="Declaration of the base class for all order 2 potentials. " alt="" coords="1528,753,1687,794"/>
+<area shape="rect" id="node35" href="$Reaction_8h_source.html" title="readdy/model/reactions\l/Reaction.h" alt="" coords="1549,843,1707,885"/>
+<area shape="rect" id="node36" href="$ReactionFactory_8h.html" title="In this header, the reaction factory is declared. " alt="" coords="859,843,1016,885"/>
+<area shape="rect" id="node37" href="$ReactionRegistry_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="1763,753,1920,794"/>
+<area shape="rect" id="node38" href="$ParticleTypeRegistry_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="1859,843,2036,885"/>
+<area shape="rect" id="node39" href="$Compartment_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="1192,843,1379,885"/>
+<area shape="rect" id="node43" href="$TopologyPotential_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="2165,499,2301,525"/>
+<area shape="rect" id="node47" href="$Recipe_8h_source.html" title="Recipe.h" alt="" coords="583,424,656,451"/>
+<area shape="rect" id="node48" href="$Operations_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="492,499,588,525"/>
+<area shape="rect" id="node49" href="$TopologyReaction_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="473,349,612,376"/>
+</map>

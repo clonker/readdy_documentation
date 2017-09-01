@@ -1,0 +1,23 @@
+<map id="include/readdy/model/observables/CenterOfMass.h" name="include/readdy/model/observables/CenterOfMass.h">
+<area shape="rect" id="node2" href="$Observables_8h.html" title="Header file combining definitions for various observables. " alt="" coords="1612,97,1796,138"/>
+<area shape="rect" id="node3" href="$ObservableFactory_8h.html" title="Header file containing some common utils. " alt="" coords="1529,278,1751,319"/>
+<area shape="rect" id="node20" href="$SCPUObservables_8h_source.html" title="include/readdy/kernel\l/singlecpu/observables\l/SCPUObservables.h" alt="" coords="2119,549,2272,605"/>
+<area shape="rect" id="node22" href="$Aggregators_8h.html" title="SingleCpu implementations of the aggregators defined in the core library. " alt="" coords="1485,187,1667,229"/>
+<area shape="rect" id="node4" href="$Kernel_8h.html" title="File containing the ReaDDy top level API. " alt="" coords="1943,369,2088,410"/>
+<area shape="rect" id="node19" href="$SCPUObservableFactory_8h_source.html" title="include/readdy/kernel\l/singlecpu/observables\l/SCPUObservableFactory.h" alt="" coords="185,549,369,605"/>
+<area shape="rect" id="node5" href="$KernelProvider_8h.html" title="This file contains the KernelProvider class. It is used to make kernels that reside in shared libs ac..." alt="" coords="2305,459,2449,501"/>
+<area shape="rect" id="node7" href="$Simulation_8h_source.html" title="include/readdy/api\l/Simulation.h" alt="" coords="2346,654,2472,695"/>
+<area shape="rect" id="node9" href="$SimulationScheme_8h.html" title="Header file containing the SchemeConfigurator&lt;T&gt; and a corresponding SimulationScheme superclass defi..." alt="" coords="2532,557,2679,598"/>
+<area shape="rect" id="node10" href="$SCPUKernel_8h_source.html" title="include/readdy/kernel\l/singlecpu/SCPUKernel.h" alt="" coords="1139,459,1309,501"/>
+<area shape="rect" id="node21" href="$Trajectory_8h.html" title="A trajectory keeps track of all particles&#39; positions and saves them to a file. " alt="" coords="1861,459,2043,501"/>
+<area shape="rect" id="node6" href="$Simulation__misc_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="2298,557,2456,598"/>
+<area shape="rect" id="node8" href="$readdy_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="2411,744,2569,771"/>
+<area shape="rect" id="node11" href="$SCPUCalculateForces_8h_source.html" title="include/readdy/kernel\l/singlecpu/actions/SCPUCalculate\lForces.h" alt="" coords="1353,549,1576,605"/>
+<area shape="rect" id="node12" href="$SCPUEulerBDIntegrator_8h_source.html" title="include/readdy/kernel\l/singlecpu/actions/SCPUEuler\lBDIntegrator.h" alt="" coords="1601,549,1799,605"/>
+<area shape="rect" id="node13" href="$SCPUEvaluateCompartments_8h_source.html" title="include/readdy/kernel\l/singlecpu/actions/SCPUEvaluate\lCompartments.h" alt="" coords="1823,549,2043,605"/>
+<area shape="rect" id="node14" href="$SCPUEvaluateTopologyReactions_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="394,549,613,605"/>
+<area shape="rect" id="node15" href="$SCPUReactionImpls_8h_source.html" title="include/readdy/kernel\l/singlecpu/actions/SCPUReaction\lImpls.h" alt="" coords="639,549,860,605"/>
+<area shape="rect" id="node16" href="$SCPUUpdateNeighborList_8h_source.html" title="include/readdy/kernel\l/singlecpu/actions/SCPUUpdate\lNeighborList.h" alt="" coords="884,549,1093,605"/>
+<area shape="rect" id="node17" href="$SCPUTopologyActionFactory_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="1119,549,1328,605"/>
+<area shape="rect" id="node18" href="$SCPUAggregators_8h_source.html" title="include/readdy/kernel\l/singlecpu/observables\l/SCPUAggregators.h" alt="" coords="5,549,159,605"/>
+</map>

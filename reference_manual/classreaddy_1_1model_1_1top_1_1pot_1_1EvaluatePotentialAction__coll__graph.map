@@ -1,0 +1,4 @@
+<map id="readdy::model::top::pot::EvaluatePotentialAction" name="readdy::model::top::pot::EvaluatePotentialAction">
+<area shape="rect" id="node2" href="$classreaddy_1_1model_1_1top_1_1pot_1_1TopologyPotentialAction.html" title="{readdy::model::top\l::pot::TopologyPotentialAction\n||+ TopologyPotentialAction()\l+ TopologyPotentialAction()\l+ operator=()\l+ TopologyPotentialAction()\l+ operator=()\l+ ~TopologyPotentialAction()\l}" alt="" coords="5,293,203,459"/>
+<area shape="rect" id="node3" href="$classreaddy_1_1model_1_1KernelContext.html" title="{readdy::model::KernelContext\n||+ getKBT()\l+ setKBT()\l+ getBoxSize()\l+ getBoxBoundingVertices()\l+ setBoxSize()\l+ getPeriodicBoundary()\l+ setPeriodicBoundary()\l+ getFixPositionFun()\l+ getDistSquaredFun()\l+ getShortestDifferenceFun()\land 26 more...\l}" alt="" coords="7,5,201,229"/>
+</map>

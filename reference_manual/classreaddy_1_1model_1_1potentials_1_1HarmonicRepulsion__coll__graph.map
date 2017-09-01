@@ -1,0 +1,5 @@
+<map id="readdy::model::potentials::HarmonicRepulsion" name="readdy::model::potentials::HarmonicRepulsion">
+<area shape="rect" id="node2" href="$classreaddy_1_1model_1_1potentials_1_1PotentialOrder2.html" title="{readdy::model::potentials\l::PotentialOrder2\n||+ PotentialOrder2()\l+ calculateEnergy()\l+ calculateForce()\l+ calculateForceAndEnergy()\l+ getCutoffRadius()\l+ getCutoffRadiusSquared()\l# configureForTypes()\l}" alt="" coords="42,451,232,631"/>
+<area shape="rect" id="node3" href="$classreaddy_1_1model_1_1potentials_1_1Potential.html" title="{readdy::model::potentials\l::Potential\n||+ Potential()\l+ Potential()\l+ operator=()\l+ Potential()\l+ operator=()\l+ ~Potential()\l+ getId()\l+ getOrder()\l+ getMaximalForce()\l+ describe()\l}" alt="" coords="5,149,173,373"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="197,223,276,300"/>
+</map>

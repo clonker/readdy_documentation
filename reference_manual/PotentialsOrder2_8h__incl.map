@@ -1,0 +1,30 @@
+<map id="include/readdy/model/potentials/PotentialsOrder2.h" name="include/readdy/model/potentials/PotentialsOrder2.h">
+<area shape="rect" id="node2" href="$KernelContext_8h.html" title="Container class for time independent information of the KernelContext. " alt="" coords="1179,96,1377,123"/>
+<area shape="rect" id="node20" href="$PotentialOrder2_8h.html" title="Declaration of the base class for all order 2 potentials. " alt="" coords="1893,262,2051,303"/>
+<area shape="rect" id="node7" href="$PotentialOrder1_8h.html" title="Declaration of the base class of all order 1 potentials. " alt="" coords="1417,262,1575,303"/>
+<area shape="rect" id="node17" href="$Vec3_8h.html" title="File containing the definitions for Vec3. " alt="" coords="1843,533,1905,560"/>
+<area shape="rect" id="node21" href="$Reaction_8h_source.html" title="readdy/model/reactions\l/Reaction.h" alt="" coords="298,353,455,394"/>
+<area shape="rect" id="node30" href="$ReactionFactory_8h.html" title="In this header, the reaction factory is declared. " alt="" coords="406,171,563,213"/>
+<area shape="rect" id="node37" href="$ReactionRegistry_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="783,262,941,303"/>
+<area shape="rect" id="node38" href="$ParticleTypeTuple_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="1187,443,1379,485"/>
+<area shape="rect" id="node44" href="$ParticleTypeRegistry_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="1429,353,1606,394"/>
+<area shape="rect" id="node46" href="$Compartment_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="1682,353,1869,394"/>
+<area shape="rect" id="node47" href="$PotentialConfiguration_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="849,360,1074,387"/>
+<area shape="rect" id="node48" href="$PotentialRegistry_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="1534,171,1693,213"/>
+<area shape="rect" id="node8" href="$Potential_8h.html" title="Header file containing the base class for all potentials. " alt="" coords="1893,353,2051,394"/>
+<area shape="rect" id="node10" href="$Particle_8h.html" title="Header file containing the definitions for the particle class. " alt="" coords="1692,451,1850,477"/>
+<area shape="rect" id="node13" href="$common_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="1009,608,1189,635"/>
+<area shape="rect" id="node14" href="$logging_8h.html" title="Header responsible for the logging system. " alt="" coords="662,683,735,709"/>
+<area shape="rect" id="node16" href="$macros_8h_source.html" title="macros.h" alt="" coords="769,757,845,784"/>
+<area shape="rect" id="node23" href="$RandomProvider_8h_source.html" title="readdy/model/RandomProvider.h" alt="" coords="531,451,742,477"/>
+<area shape="rect" id="node27" href="$make__unique_8h.html" title="reference implementation of make_unique, see N3656 " alt="" coords="304,443,454,485"/>
+<area shape="rect" id="node32" href="$Conversion_8h.html" title="Declaration of Conversion reactions, i.e., A&#45;&gt;B. " alt="" coords="490,269,589,296"/>
+<area shape="rect" id="node33" href="$Enzymatic_8h.html" title="Declaration file of enzymatic reactions, i.e., A+C&#45;&gt;B+C. " alt="" coords="613,269,707,296"/>
+<area shape="rect" id="node34" href="$Fission_8h.html" title="Declaration of fission reactions, i.e., A&#45;&gt;B+C. " alt="" coords="149,269,222,296"/>
+<area shape="rect" id="node35" href="$Fusion_8h.html" title="Header file containing the declaration for fusion reactions, i.e., A+B&#45;&gt;C. " alt="" coords="298,269,370,296"/>
+<area shape="rect" id="node36" href="$Decay_8h_source.html" title="Decay.h" alt="" coords="395,269,465,296"/>
+<area shape="rect" id="node45" href="$ExternalTopologyReaction_8h_source.html" title="readdy/model/topologies\l/reactions/ExternalTopologyReaction.h" alt="" coords="529,353,775,394"/>
+<area shape="rect" id="node40" href="$hash_8h.html" title="Utility functions for hashes. " alt="" coords="1374,608,1435,635"/>
+<area shape="rect" id="node41" href="$tuple__utils_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="1596,533,1687,560"/>
+<area shape="rect" id="node43" href="$index__sequence_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="1460,608,1586,635"/>
+</map>

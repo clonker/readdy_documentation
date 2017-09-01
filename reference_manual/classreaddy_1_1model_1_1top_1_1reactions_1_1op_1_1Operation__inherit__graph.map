@@ -1,0 +1,5 @@
+<map id="readdy::model::top::reactions::op::Operation" name="readdy::model::top::reactions::op::Operation">
+<area shape="rect" id="node2" href="$classreaddy_1_1model_1_1top_1_1reactions_1_1op_1_1AddEdge.html" title="{readdy::model::top\l::reactions::op::AddEdge\n||+ AddEdge()\l+ create_action()\l}" alt="" coords="5,147,171,253"/>
+<area shape="rect" id="node3" href="$classreaddy_1_1model_1_1top_1_1reactions_1_1op_1_1ChangeParticleType.html" title="{readdy::model::top\l::reactions::op::ChangeParticleType\n||+ ChangeParticleType()\l+ create_action()\l}" alt="" coords="195,147,425,253"/>
+<area shape="rect" id="node4" href="$classreaddy_1_1model_1_1top_1_1reactions_1_1op_1_1RemoveEdge.html" title="{readdy::model::top\l::reactions::op::RemoveEdge\n||+ RemoveEdge()\l+ create_action()\l}" alt="" coords="451,147,643,253"/>
+</map>

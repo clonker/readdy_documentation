@@ -1,0 +1,5 @@
+<map id="readdy::model::ioutils::ReactionInfoMemoryType" name="readdy::model::ioutils::ReactionInfoMemoryType">
+<area shape="rect" id="node2" href="$classreaddy_1_1io_1_1NativeCompoundType.html" title="{readdy::io::NativeCompoundType\n||}" alt="" coords="5,344,221,421"/>
+<area shape="rect" id="node3" href="$classreaddy_1_1io_1_1DataSetType.html" title="{readdy::io::DataSetType\n||+ DataSetType()\l}" alt="" coords="31,219,195,296"/>
+<area shape="rect" id="node4" href="$classreaddy_1_1io_1_1Object.html" title="{readdy::io::Object\n|# handle\l|+ Object()\l+ Object()\l+ operator=()\l+ Object()\l+ operator=()\l+ ~Object()\l+ hid()\l}" alt="" coords="51,5,176,171"/>
+</map>

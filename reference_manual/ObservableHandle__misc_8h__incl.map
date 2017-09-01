@@ -1,0 +1,11 @@
+<map id="include/readdy/api/bits/ObservableHandle_misc.h" name="include/readdy/api/bits/ObservableHandle_misc.h">
+<area shape="rect" id="node2" href="$ObservableHandle_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="221,109,373,136"/>
+<area shape="rect" id="node3" href="$Observable_8h.html" title="Header file containing the definitions for ObservableName, ObservableBase, Observable and CombinerObs..." alt="" coords="210,185,384,226"/>
+<area shape="rect" id="node4" href="$common_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="30,373,209,400"/>
+<area shape="rect" id="node5" href="$logging_8h.html" title="Header responsible for the logging system. " alt="" coords="83,456,156,483"/>
+<area shape="rect" id="node8" href="$make__unique_8h.html" title="reference implementation of make_unique, see N3656 " alt="" coords="751,366,901,407"/>
+<area shape="rect" id="node13" href="$signals_8h.html" title="A signals implementation. " alt="" coords="473,283,644,309"/>
+<area shape="rect" id="node17" href="$tuple__utils_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="224,275,371,317"/>
+<area shape="rect" id="node7" href="$macros_8h_source.html" title="macros.h" alt="" coords="142,531,217,557"/>
+<area shape="rect" id="node18" href="$index__sequence_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="234,373,360,400"/>
+</map>

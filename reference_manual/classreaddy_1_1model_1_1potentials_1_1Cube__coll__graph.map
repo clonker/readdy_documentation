@@ -1,0 +1,6 @@
+<map id="readdy::model::potentials::Cube" name="readdy::model::potentials::Cube">
+<area shape="rect" id="node2" href="$classreaddy_1_1model_1_1potentials_1_1PotentialOrder1.html" title="{readdy::model::potentials\l::PotentialOrder1\n||+ PotentialOrder1()\l+ calculateEnergy()\l+ calculateForce()\l+ calculateForceAndEnergy()\l+ getRelevantLengthScale()\l# configureForType()\l}" alt="" coords="99,519,289,684"/>
+<area shape="rect" id="node3" href="$classreaddy_1_1model_1_1potentials_1_1Potential.html" title="{readdy::model::potentials\l::Potential\n||+ Potential()\l+ Potential()\l+ operator=()\l+ Potential()\l+ operator=()\l+ ~Potential()\l+ getId()\l+ getOrder()\l+ getMaximalForce()\l+ describe()\l}" alt="" coords="5,149,173,373"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="197,223,276,300"/>
+<area shape="rect" id="node6" href="$structreaddy_1_1model_1_1Vec3.html" title="{readdy::model::Vec3\n|+ x\l+ y\l+ z\l+ @1\l|+ Vec3()\l+ Vec3()\l+ Vec3()\l+ operator+=()\l+ operator&#45;=()\l+ operator*=()\l+ operator/=()\l+ cross()\l+ norm()\l+ normSquared()\l+ operator[]()\l+ operator[]()\l+ invertElementWise()\l+ operator==()\l+ operator!=()\l}" alt="" coords="315,438,467,765"/>
+</map>

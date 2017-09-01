@@ -1,0 +1,9 @@
+<map id="include/readdy/model/observables/Observable.h" name="include/readdy/model/observables/Observable.h">
+<area shape="rect" id="node2" href="$common_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="30,195,209,221"/>
+<area shape="rect" id="node3" href="$logging_8h.html" title="Header responsible for the logging system. " alt="" coords="83,277,156,304"/>
+<area shape="rect" id="node6" href="$make__unique_8h.html" title="reference implementation of make_unique, see N3656 " alt="" coords="751,187,901,229"/>
+<area shape="rect" id="node11" href="$signals_8h.html" title="A signals implementation. " alt="" coords="473,104,644,131"/>
+<area shape="rect" id="node15" href="$tuple__utils_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="224,97,371,138"/>
+<area shape="rect" id="node5" href="$macros_8h_source.html" title="macros.h" alt="" coords="142,352,217,379"/>
+<area shape="rect" id="node16" href="$index__sequence_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="234,195,360,221"/>
+</map>

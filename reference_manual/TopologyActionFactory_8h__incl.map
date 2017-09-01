@@ -1,0 +1,33 @@
+<map id="include/readdy/model/topologies/TopologyActionFactory.h" name="include/readdy/model/topologies/TopologyActionFactory.h">
+<area shape="rect" id="node2" href="$TopologyReactionActionFactory_8h_source.html" title="readdy/model/topologies\l/reactions/TopologyReactionAction\lFactory.h" alt="" coords="133,499,357,555"/>
+<area shape="rect" id="node25" href="$TopologyPotentialActionFactory_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="2539,96,2729,152"/>
+<area shape="rect" id="node3" href="$macros_8h_source.html" title="readdy/common/macros.h" alt="" coords="2452,1189,2625,1216"/>
+<area shape="rect" id="node4" href="$TopologyReactionAction_8h_source.html" title="TopologyReactionAction.h" alt="" coords="158,611,332,637"/>
+<area shape="rect" id="node6" href="$Graph_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="164,694,327,735"/>
+<area shape="rect" id="node11" href="$Vertex_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="914,792,984,819"/>
+<area shape="rect" id="node16" href="$common_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="2265,1040,2444,1067"/>
+<area shape="rect" id="node18" href="$Particle_8h.html" title="Header file containing the definitions for the particle class. " alt="" coords="1447,883,1605,909"/>
+<area shape="rect" id="node17" href="$logging_8h.html" title="Header responsible for the logging system. " alt="" coords="2415,1115,2488,1141"/>
+<area shape="rect" id="node23" href="$Vec3_8h.html" title="File containing the definitions for Vec3. " alt="" coords="993,965,1055,992"/>
+<area shape="rect" id="node26" href="$TopologyPotentialActions_8h_source.html" title="TopologyPotentialActions.h" alt="" coords="2480,200,2661,227"/>
+<area shape="rect" id="node47" href="$BondedPotential_8h_source.html" title="BondedPotential.h" alt="" coords="2361,275,2489,301"/>
+<area shape="rect" id="node49" href="$AnglePotential_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="2613,275,2729,301"/>
+<area shape="rect" id="node50" href="$TorsionPotential_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="2755,275,2881,301"/>
+<area shape="rect" id="node27" href="$TopologyPotentialAction_8h_source.html" title="TopologyPotentialAction.h" alt="" coords="2609,424,2783,451"/>
+<area shape="rect" id="node28" href="$KernelContext_8h.html" title="Container class for time independent information of the KernelContext. " alt="" coords="1463,513,1661,540"/>
+<area shape="rect" id="node30" href="$PotentialOrder1_8h.html" title="Declaration of the base class of all order 1 potentials. " alt="" coords="1303,694,1461,735"/>
+<area shape="rect" id="node32" href="$PotentialOrder2_8h.html" title="Declaration of the base class for all order 2 potentials. " alt="" coords="1119,694,1277,735"/>
+<area shape="rect" id="node33" href="$Reaction_8h_source.html" title="readdy/model/reactions\l/Reaction.h" alt="" coords="1655,785,1812,826"/>
+<area shape="rect" id="node38" href="$ReactionFactory_8h.html" title="In this header, the reaction factory is declared. " alt="" coords="1547,603,1704,645"/>
+<area shape="rect" id="node40" href="$ReactionRegistry_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="2039,603,2196,645"/>
+<area shape="rect" id="node41" href="$ParticleTypeTuple_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="2295,694,2487,735"/>
+<area shape="rect" id="node43" href="$ParticleTypeRegistry_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="1813,694,1989,735"/>
+<area shape="rect" id="node44" href="$Compartment_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="857,694,1044,735"/>
+<area shape="rect" id="node45" href="$PotentialConfiguration_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="2221,611,2445,637"/>
+<area shape="rect" id="node46" href="$PotentialRegistry_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="1804,603,1963,645"/>
+<area shape="rect" id="node31" href="$Potential_8h.html" title="Header file containing the base class for all potentials. " alt="" coords="1316,785,1475,826"/>
+<area shape="rect" id="node34" href="$RandomProvider_8h_source.html" title="readdy/model/RandomProvider.h" alt="" coords="1009,883,1220,909"/>
+<area shape="rect" id="node35" href="$make__unique_8h.html" title="reference implementation of make_unique, see N3656 " alt="" coords="1834,875,1984,917"/>
+<area shape="rect" id="node39" href="$Conversion_8h.html" title="Declaration of Conversion reactions, i.e., A&#45;&gt;B. " alt="" coords="1537,701,1636,728"/>
+<area shape="rect" id="node48" href="$TopologyPotential_8h.html" title="&lt;&lt; brief description &gt;&gt; " alt="" coords="2609,349,2745,376"/>
+</map>

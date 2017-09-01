@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>ReaDDy</title>
+
+    <link rel="stylesheet" href="/readdy_documentation/assets/css/readdy_documentation.css">
+    <link rel="canonical" href="https://readdy.github.io/readdy_documentation/">
+    <link href="https://fonts.googleapis.com/css?family=Inconsolata|Roboto+Mono|Lora|Lato|Source+Sans+Pro|Roboto+Slab|Merriweather" rel="stylesheet">
+    <link rel="stylesheet" href="https://readdy.github.io/readdy_documentation/libraries/perfect-scrollbar/css/perfect-scrollbar.min.css"/>
+
+    <!-- mathjax config similar to math.stackexchange -->
+    <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      jax: ["input/TeX", "output/HTML-CSS"],
+      tex2jax: {
+        inlineMath: [ ['$', '$'] ],
+        displayMath: [ ['$$', '$$']],
+        processEscapes: true,
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+      },
+      messageStyle: "none",
+      "HTML-CSS": { preferredFont: "TeX", availableFonts: ["STIX","TeX"] }
+    });
+    </script>
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_HTML">
+    </script>
+
+    <link rel="icon" type="image/png" href="/readdy_documentation/assets/icon_black_32px.png">
+
+</head>
+
+
+<body>
+<div class="side-wrapper" id="unique-side-container">
+<div class="side">
+    <div class="side-logo logo-readdy"><a href="https://readdy.github.io/readdy_documentation/index.html"></a></div>
+    <div style="margin-right: 1.5rem; text-align: center;">
+        <a href="https://readdy.github.io/readdy_documentation/index.html">ReaDDy - A particle-based<br>reaction-diffusion simulator</a>
+    </div>
+
+    <div class="side-searchbar-wrapper">
+        <form action="https://readdy.github.io/readdy_documentation/search.html" method="get">
+            <input type="text" id="search-box" name="query" placeholder="Search ...">
+        </form>
+    </div>
+    <nav class="side-nav">
+        <div class="nav-supergroup-delimiter">
+            <b>THE BASICS</b>
+        </div>
+        <a class="side-nav-item" href="https://readdy.github.io/readdy_documentation/installation.html">Install readdy</a>
+        
+        <a class="side-nav-item" href="https://readdy.github.io/readdy_documentation/reactions.html">Reactions</a>
+        
+        <a class="side-nav-item" href="https://readdy.github.io/readdy_documentation/potentials.html">Potentials</a>
+        
+        <a class="side-nav-item" href="https://readdy.github.io/readdy_documentation/observables.html">Observables</a>
+        
+        <a class="side-nav-item" href="https://readdy.github.io/readdy_documentation/topologies.html">Topologies</a>
+
+
+        <div class="nav-supergroup-delimiter">
+            <b>EXAMPLES</b>
+        </div>
+        <a class="side-nav-item" href="https://readdy.github.io/readdy_documentation/demonstration.html">Demonstration</a>
+        
+
+
+        <div class="nav-supergroup-delimiter">
+            <b>ADVANCED TOPICS</b>
+        </div>
+        <a class="side-nav-item" href="https://readdy.github.io/readdy_documentation/development.html">Development</a>
+        
+        <a class="side-nav-item" href="https://readdy.github.io/readdy_documentation/reference_manual.html">Reference Manual</a>
+        <a class="side-nav-item" href="https://readdy.github.io/readdy_documentation/faq.html">FAQ</a>
+        
+    </nav>
+
+    <div class="github-wrapper">
+        <a href="https://github.com/readdy/readdy" style="width: 16rem; height:100%; position:absolute; top:0; left:0;">
+            <div class="github-text">ReaDDy on GitHub</div>
+            <div class="side-logo logo-github"></div>
+        </a>
+    </div>
+    <div class="side-logo logo-cmb"><a href="https://www.mi.fu-berlin.de/en/math/groups/comp-mol-bio/"></a></div>
+</div>
+</div>
+
+<div class="main-container" id="unique-main-container">
+    <div class="main">
+        <article>
+            <div class="centered"><h1>ReaDDy <br><u>Rea</u>ction <u>D</u>iffusion <u>Dy</u>namics</h1></div>
+
+    <p>Welcome to the website of ReaDDy - a particle-based reaction-diffusion simulator, written in C++ with python bindings. 
+ReaDDy is an open-source project, developed and maintained by Moritz Hoffmann, Christoph Fröhner and Frank Noé 
+of the Computational Molecular Biology group at the Freie Universität Berlin.</p>
+
+<p>We are making final changes before a first proper release in the very near future.</p>
+
+<p>This project continues the <a href="https://github.com/readdy/readdy_java">java software</a> of the same name, by Johannes Schöneberg and Frank Noé.<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup></p>
+
+<p><a href="mailto:readdyadmin@lists.fu-berlin.de">Contact us</a> if you want to use ReaDDy now or in some future project.</p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>J. Schöneberg and F. Noé, “ReaDDy–a software for particle-based reaction-diffusion dynamics in crowded cellular environments.”, PLoS One, vol. 8, no. 9, p. e74261, 2013.&nbsp;<a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+
+        </article>
+        <div class="foot">
+            © Copyright 2017 <a href="https://www.mi.fu-berlin.de/en/math/groups/comp-mol-bio/">CMB group</a>
+        </div>
+    </div>
+</div>
+<script src="https://readdy.github.io/readdy_documentation/libraries/perfect-scrollbar/js/perfect-scrollbar.min.js"></script>
+<script src="https://readdy.github.io/readdy_documentation/assets/js/scrollbar.js"></script>
+</body>
+</html>

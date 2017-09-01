@@ -1,0 +1,4 @@
+<map id="readdy::io::PropertyList" name="readdy::io::PropertyList">
+<area shape="rect" id="node3" href="$classreaddy_1_1io_1_1DataSetCreatePropertyList.html" title="{readdy::io::DataSetCreate\lPropertyList\n||+ DataSetCreatePropertyList()\l+ set_layout_compact()\l+ set_layout_contiguous()\l+ set_layout_chunked()\l+ set_chunk()\l+ activate_blosc()\l}" alt="" coords="5,344,203,509"/>
+<area shape="rect" id="node2" href="$classreaddy_1_1io_1_1Object.html" title="{readdy::io::Object\n|# handle\l|+ Object()\l+ Object()\l+ operator=()\l+ Object()\l+ operator=()\l+ ~Object()\l+ hid()\l}" alt="" coords="41,5,167,171"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="readdy::api::ReaDDyScheme" name="readdy::api::ReaDDyScheme">
+<area shape="rect" id="node2" href="$classreaddy_1_1api_1_1SimulationScheme.html" title="{readdy::api::SimulationScheme\n|# evaluateObservables\l# start\l|+ SimulationScheme()\l+ run()\l+ run()\l}" alt="" coords="588,611,791,733"/>
+<area shape="rect" id="node3" href="$classreaddy_1_1model_1_1Kernel.html" title="{readdy::model::Kernel\n||+ Kernel()\l+ ~Kernel()\l+ Kernel()\l+ operator=()\l+ Kernel()\l+ operator=()\l+ getName()\l+ createAction()\l+ createObservable()\l+ createObservable()\land 39 more...\l# getTypeId()\l# getTypeIdRequireNormalFlavor()\l# getKernelStateModelInternal()\l# getKernelContextInternal()\l# getActionFactoryInternal()\l# getPotentialFactoryInternal()\l# getReactionFactoryInternal()\l# getCompartmentFactoryInternal()\l# getObservableFactoryInternal()\l# getTopologyActionFactory\lInternal()\l}" alt="" coords="5,147,229,533"/>
+</map>

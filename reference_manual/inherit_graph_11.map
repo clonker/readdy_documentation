@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classreaddy_1_1io_1_1ObjectHandle.html" title="readdy::io::ObjectHandle" alt="" coords="6,132,173,159"/>
+<area shape="rect" id="node2" href="$classreaddy_1_1io_1_1DataSetHandle.html" title="readdy::io::DataSetHandle" alt="" coords="231,5,407,32"/>
+<area shape="rect" id="node3" href="$classreaddy_1_1io_1_1DataSpaceHandle.html" title="readdy::io::DataSpaceHandle" alt="" coords="222,56,415,83"/>
+<area shape="rect" id="node4" href="$classreaddy_1_1io_1_1DataTypeHandle.html" title="readdy::io::DataTypeHandle" alt="" coords="226,107,411,133"/>
+<area shape="rect" id="node5" href="$classreaddy_1_1io_1_1FileHandle.html" title="readdy::io::FileHandle" alt="" coords="244,157,393,184"/>
+<area shape="rect" id="node6" href="$classreaddy_1_1io_1_1GroupHandle.html" title="readdy::io::GroupHandle" alt="" coords="237,208,400,235"/>
+<area shape="rect" id="node7" href="$classreaddy_1_1io_1_1PropertyListHandle.html" title="readdy::io::PropertyList\lHandle" alt="" coords="240,259,397,301"/>
+</map>
